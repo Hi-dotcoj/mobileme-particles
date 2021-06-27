@@ -1,7 +1,7 @@
 body {
 	color: #57b;
 	font-size: 12px;
-	font-family: 'Lucida Sans', Arial, sans-serif;
+	font-family: 'Luciana Grande;
 	background-color: #041c5f;
 	background-image: -moz-linear-gradient(top, #040c3f, #040c3f 20%, #07368b 90%, #0057a6);
 	background-image: -webkit-gradient(linear, center top, center bottom, from( #040c3f), color-stop(20%, #040c3f), color-stop(90%, #07368b), to( #0057a6)); 
